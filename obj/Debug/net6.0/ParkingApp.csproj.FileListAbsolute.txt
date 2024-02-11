@@ -1,0 +1,15 @@
+/home/user/Batch14/C#/ParkingApp/bin/Debug/net6.0/ParkingApp
+/home/user/Batch14/C#/ParkingApp/bin/Debug/net6.0/ParkingApp.deps.json
+/home/user/Batch14/C#/ParkingApp/bin/Debug/net6.0/ParkingApp.runtimeconfig.json
+/home/user/Batch14/C#/ParkingApp/bin/Debug/net6.0/ParkingApp.dll
+/home/user/Batch14/C#/ParkingApp/bin/Debug/net6.0/ref/ParkingApp.dll
+/home/user/Batch14/C#/ParkingApp/bin/Debug/net6.0/ParkingApp.pdb
+/home/user/Batch14/C#/ParkingApp/obj/Debug/net6.0/ParkingApp.csproj.AssemblyReference.cache
+/home/user/Batch14/C#/ParkingApp/obj/Debug/net6.0/ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Batch14/C#/ParkingApp/obj/Debug/net6.0/ParkingApp.AssemblyInfoInputs.cache
+/home/user/Batch14/C#/ParkingApp/obj/Debug/net6.0/ParkingApp.AssemblyInfo.cs
+/home/user/Batch14/C#/ParkingApp/obj/Debug/net6.0/ParkingApp.csproj.CoreCompileInputs.cache
+/home/user/Batch14/C#/ParkingApp/obj/Debug/net6.0/ParkingApp.dll
+/home/user/Batch14/C#/ParkingApp/obj/Debug/net6.0/ref/ParkingApp.dll
+/home/user/Batch14/C#/ParkingApp/obj/Debug/net6.0/ParkingApp.pdb
+/home/user/Batch14/C#/ParkingApp/obj/Debug/net6.0/ParkingApp.genruntimeconfig.cache
